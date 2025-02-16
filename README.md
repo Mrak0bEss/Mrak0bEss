@@ -15,15 +15,15 @@
 ## 💻 Технологический стек
 
 ### Основные технологии:
-- **Backend:** C#, .NET Core, ASP.NET Core, Dapper, Entity Framework (EF)
-- **Базы данных:** PostgreSQL, Redis
+- **Backend:** C#, .NET Core, ASP.NET Core
+- **Базы данных:** PostgreSQL, Redis, Dapper, Entity Framework (EF)
 - **Микросервисы:** Kafka, gRPC, REST API
 - **Мониторинг и логирование:** Prometheus, Grafana, Zabbix
 - **Другие инструменты:** Docker, CI/CD, Git
 
 ### Дополнительно:
-- **Тестирование:** Unit Testing, Integration Testing
-- **Архитектура:** Clean Architecture, Microservices, Event-driven architecture
+- **Тестирование:** Unit Testing, Integration Testing, Banchmarks
+- **Архитектура:** Clean Architecture, Microservices, Event-driven architecture, DDD, MVC, MVVM
 
 ---
 
