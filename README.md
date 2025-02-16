@@ -28,7 +28,7 @@
 ---
 
 ## 📊 Языки программирования
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrak0bEss&layout=compact&theme=onedark&langs_count=8&exclude_langs=HTML,CSS,Markdown,Jupyter%20Notebook&hide_progress=true&text_color=ffffff&bg_color=1e1e1e&border_color=ff5733)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrak0bEss&layout=compact&theme=onedark&langs_count=8&exclude_langs=HTML,CSS,Markdown,Jupyter%20Notebook&text_color=ffffff&bg_color=1e1e1e&border_color=ff5733)
 
 ## 📈 Статистика GitHub
 
